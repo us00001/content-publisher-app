@@ -1,0 +1,6 @@
+body{ font-family: Arial, Helvetica, sans-serif; padding: 12px; }
+.nav a{ margin-right: 12px; }
+.container{ margin-top: 16px; }
+.error{ color: red; }
+input, textarea{ display:block; margin:8px 0; padding:6px; width:100%; max-width:600px; }
+button{ margin-right:8px; }
